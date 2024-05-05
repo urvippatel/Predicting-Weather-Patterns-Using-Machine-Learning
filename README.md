@@ -41,8 +41,7 @@ All visualizations were created in Python.
 ## Folders
 The project files are divided between the following folders:
 - **01 Project Management:** Project Brief & Data Dictionary.
-- **02 Data:** Separated into two subfolders: Original and Prepared Data. These contain the original data frames and the cleaned/prepared data frames for analysis, respectively. (Data files not uploaded to GitHub due to size.)
-- **03 Scripts:** The Jupyter notebooks containing the coding for the analysis.
+- **02 Scripts:** The Jupyter notebooks containing the coding for the analysis.
 
 ## Resources
 - The weather data is collected by the European Climate Assessment & Dataset project. [ECA&D](https://www.ecad.eu/)
